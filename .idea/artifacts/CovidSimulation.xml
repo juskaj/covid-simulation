@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="CovidSimulation">
+    <output-path>$PROJECT_DIR$/out/artifacts/CovidSimulation</output-path>
+    <root id="root">
+      <element id="archive" name="CovidSimulation.jar">
+        <element id="module-output" name="CovidSimulation" />
+      </element>
+    </root>
+  </artifact>
+</component>
